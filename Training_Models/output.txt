@@ -1,0 +1,13 @@
+Per‐Row Predictions (in computed_metrics.csv)
+
+    slippage_pred: 0.0 (fallback)
+
+    fee_pred: 0.125 (USD)
+
+    impact_pred: ∼1e⁻¹² (USD)
+
+    net_cost: ∼0.125 (USD)
+
+    prob_taker: 0.5 (50 % fallback)
+
+    latency_ms: small number (∼0.003 ms on average per row)
